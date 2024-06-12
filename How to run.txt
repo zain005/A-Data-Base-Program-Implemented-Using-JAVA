@@ -1,0 +1,4 @@
+1. Open xampp_control, click Apache and MySQL
+2. Open http://localhost/phpmyadmin/
+3. Create new database ex: palmspecimenproject, and import palmspecimenprojecttable.sql
+4. Launch PalmSpecimenProject.exe
